@@ -1,0 +1,75 @@
+### SO you want to begin doing STock Exchange?
+###
+##NOw here are the prerequites
+## Disclaimer: I got all these stuff from here: 
+Author: Alberto Gianetti albertogiannetti@gmail.com
+Copyright © 2008-2013
+Description: This file contains package information and usage instructions
+Contributors: Matthew M Reid, matthew.reid@gmail.com
+
+## First just do some simple stock trends:
+http://particlephysicsandcode.com/2013/09/12/python-google-trends-api/
+# Download the git repo.
+git clone https://github.com/dreyco676/pytrends.git
+cd pytrends
+./example.py
+
+## Now at least you have a feeling for stocks
+1) Get and install Boost
+   http://www.boost.org/doc/libs/1_55_0/doc/html/bbv2/installation.html
+
+2) Get and Install a Free Open Technical Analysis Library
+   http://ta-lib.org/hdr_dw.html
+
+3) Get and Install root using the script
+   https://root.cern.ch/drupal/content/production-version-534
+   sudo ./install_root.sh
+
+4) Make sure GNU scientific Library is install which I believe its already in your system in the case of Linux
+
+5) Now Get Alberto Gianetti albertogiannetti@gmail.com package
+http://particlephysicsandcode.com/2014/03/21/c-neural-networks-applied-to-stock-markets/
+# Download the repo
+  git co https://mattreid9956@bitbucket.org/mattreid9956/hudson-mva.git
+  cd hudson-mva
+  ./build.sh
+  cd example/MVA_SNP500 # open the run.sh script and try executing the lines one by one to see if they all work, let me know if you have trouble.
+
+The Original Version is here:
+https://code.google.com/p/hudson/
+
+## Now you are done
+
+#For some power ful visualization Toolkit use: 
+
+http://www.vtk.org/
+
+##Or use 
+
+http://jwork.org/dmelt/index.php?id=install
+
+### There You go, you have all the tools to get money. Enjoy!!
+
+## How about learning how to put all of this in your own website
+
+https://docs.djangoproject.com/en/1.8/intro/tutorial01/
+
+## You can also do all of this in Python:
+ Get Anaconda( not Nicki Minaj Anaconda!), Real Anaconda!!
+## Offocurse learn some scripting etc
+BASH : http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-2.html
+
+Or PYTHON: http://www.diveintopython.net/file_handling/for_loops.html
+http://www.math.ru.nl/~bosma/onderwijs/najaar09/thinkpython.pdf
+
+https://cloud.google.com/appengine/docs/python/gettingstartedpython27/helloworld
+### How about building databases:
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-remote-database-to-optimize-site-performance-with-mysql
+
+
+
+
+
+
+
+
